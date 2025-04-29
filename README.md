@@ -54,14 +54,9 @@ The app uses a CSV file named `student_performance_1200.csv` containing features
     cd student-score-predictor
     ```
 
-2. Install dependencies:
+2. Run the app:
     ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the app:
-    ```bash
-    streamlit run new_1app.py
+    streamlit run new_app1.py
     ```
 
 ---
