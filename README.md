@@ -61,7 +61,7 @@ The app uses a CSV file named `student_performance_1200.csv` containing features
 
 3. Run the app:
     ```bash
-    streamlit run app.py
+    streamlit run new_1app.py
     ```
 
 ---
